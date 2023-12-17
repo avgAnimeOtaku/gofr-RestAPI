@@ -1,9 +1,17 @@
 # 🎥 Movies Record Management System
 This project is a simple yet effective implementation of a movie data model in Go, using the MongoDB driver for BSON serialization. The Movie struct defines the essential attributes of a movie, including its unique identifier, title, director, release year, genre, and a custom movie ID. Leveraging the power of Go and MongoDB, this model provides a flexible foundation for managing and storing movie data in a scalable and efficient manner. Whether used as part of a larger movie database application or a standalone module, the project exemplifies clean and concise code for handling movie-related information in a Go-based environment.
+
+## Table of content
+
+### 1) UML Sequence Diagram
+### 2) API Requests using Postman
+### 3) API Test Reports in Postman
+### 4) MongoDB Database
+
 ## UML Sequence Diagram
 ![hP91I_mm4CNl_HHpt3_ybxrxa5LRPC5LORVUGpDA84rAagw8-DrDEmi9eMeYNjeql3SplpVTMiUC6tjPiSvf0wr5Kmt-IdHYOCh1ZLREQ2cJwxrMBxgg9ZciBoFL1TmsHzZq-YJGJaN5YJcCouIZTr8XRq9t9UL-Tgt-1H_rcP-mJXgHkkAOg8DcjhHsMHnaFtBGI_3D-_dmKKGszxv-sz](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/522af2de-e794-4bc7-b5ec-c0188a995467)
 
-## 🔗 API testing using Postman
+## 🔗 API Requests using Postman
 
 ## POST
 
