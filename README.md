@@ -24,8 +24,18 @@
 ### 4) get movies by genre
 ![Screenshot (628)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/6b94ee12-dc0a-45d4-86bc-1ba9ba72cb0f)
 
-#### 5) get movies by movieid
+### 5) get movies by movieid
+![Screenshot (629)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/5a9c0ed6-180b-4a9d-a9b4-708ef6e0d886)
 
+## PUSH
+
+### updating movie using movieid
+![Screenshot (632)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/3ad5dce3-dbe9-4193-8e1d-e0c79f7886eb)
+
+## DELETE
+
+### deleting movie using movieid
+![Screenshot (630)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/43456997-b047-40f5-9c98-ed21f0dbe729)
 
 
 
