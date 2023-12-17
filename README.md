@@ -1,5 +1,5 @@
 # 🎥 Movies Record Management System
-This project is a simple yet effective implementation of a movie data model in Go, using the MongoDB driver for BSON serialization. The Movie struct defines the essential attributes of a movie, including its unique identifier, title, director, release year, genre, and a custom movie ID. Leveraging the power of Go and MongoDB, this model provides a flexible foundation for managing and storing movie data in a scalable and efficient manner. Whether used as part of a larger movie database application or a standalone module, the project exemplifies clean and concise code for handling movie-related information in a Go-based environment.
+This project is a simple yet effective implementation of a movie data model in Go, using the MongoDB driver for BSON serialization. The Movie struct defines the essential attributes of a movie, including its unique identifier, title, director, release year, genre, and a custom movie ID. Leveraging the power of GoFr and MongoDB, this model provides a flexible foundation for managing and storing movie data in a scalable and efficient manner. Whether used as part of a larger movie database application or a standalone module, the project exemplifies clean and concise code for handling movie-related information in a Go-based environment.
 
 ## Table of content
 
