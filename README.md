@@ -4,7 +4,7 @@ This project is a simple yet effective implementation of a movie data model in G
 ## Table of content
 
 ### 1) UML Sequence Diagram
-### 2) API Requests using Postman
+### 2) API Requests using Postman 
 ### 3) API Test Reports in Postman
 ### 4) MongoDB Database
 
