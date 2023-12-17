@@ -37,5 +37,15 @@
 ### deleting movie using movieid
 ![Screenshot (630)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/43456997-b047-40f5-9c98-ed21f0dbe729)
 
+## API Test Reports in Postman
+
+### 1) performance report
+![Screenshot (633)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/e871853e-9dd5-4a9a-b3d8-e3354e716f68)
+
+### 2) functional report
+![Screenshot (634)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/f4d450ad-516f-4377-9ce4-3f3d806c4541)
+
+## MongoDB Database
+![Screenshot (635)](https://github.com/avgAnimeOtaku/gofr-RestAPI/assets/54050376/b3b8788d-96f5-495a-8301-f91fe364ac22)
 
 
